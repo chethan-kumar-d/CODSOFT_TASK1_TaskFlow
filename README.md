@@ -29,7 +29,7 @@ Expo Go version to run it on Android.
 
 ## Demo Video
 
-[Watch TaskFlow on LinkedIn](https://lnkd.in/p/dbjYZxap)
+[Watch TaskFlow on LinkedIn](https://www.linkedin.com/posts/chethan-kumar-d_codsoft-internship-task1-ugcPost-7518020125439066112-hkdM/)
 
 ## Storage
 
